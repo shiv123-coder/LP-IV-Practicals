@@ -1,0 +1,15 @@
+Delivered-To: thenewmoses@gmail.com
+Received: by 10.90.33.15 with SMTP id g15cs279684agg; Mon, 25 Sep 2021 20:35:32 -0700 (PDT)
+Received: by 10.35.113.12 with SMTP id q12mr526602pym; Mon, 25 Sep 2021 20:35:32 -0700 (PDT)
+Received: from mailhost.nmt.edu (mailhost.NMT.EDU [129.138.4.52]) by mx.gmail.com with ESMTP id 36si2059018nza.2021.09.25.20.35.32; Mon, 25 Sep 2021 20:35:32 -0700 (PDT)
+Received: from localhost (localhost.localdomain [127.0.0.1]) by localhost.localdomain (Postfix) with ESMTP id 09FF4436164 for <thenewmoses@gmail.com>; Mon, 25 Sep 2021 21:35:32 -0600 (MDT)
+Received: from [192.168.1.2] (cs-fitch017.nmt.edu [129.138.21.110]) by mailhost.nmt.edu (Postfix) with ESMTP id 6FD4B436030 for <thenewmoses@gmail.com>; Mon, 25 Sep 2021 21:35:30 -0600 (MDT)
+From: Moses <moses@nmt.edu>
+To: thenewmoses@gmail.com
+Subject: Snakes
+Date: Mon, 25 Sep 2021 21:35:29 -0600
+Message-ID: <77E313EF-271F-4AD0-A8D3-81263BF7B083@nmt.edu>
+Return-Path: <moses@nmt.edu>
+Reply-To: moses@nmt.edu
+Received-SPF: pass (gmail.com: best guess record for domain of moses@nmt.edu designates 129.138.4.52 as permitted sender) client-ip=129.138.4.52;
+Authentication-Results: mx.google.com; dkim=pass header.i=@nmt.edu; spf=pass (google.com: domain of moses@nmt.edu designates 129.138.4.52 as permitted sender) smtp.mailfrom=moses@nmt.edu; dmarc=pass (p=REJECT sp=REJECT dis=NONE) header.from=nmt.edu

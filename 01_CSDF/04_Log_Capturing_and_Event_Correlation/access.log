@@ -1,0 +1,12 @@
+1761640800.120    245 192.168.60.11 TCP_MISS/200 15230 GET http://www.example.com/index.html user1 DIRECT/93.184.216.34 text/html
+1761640803.455     12 192.168.60.11 TCP_HIT/200 15230 GET http://www.example.com/index.html user1 NONE/- text/html
+1761640810.002    310 192.168.60.12 TCP_MISS/200 482100 GET http://files.testsite.local/lab.zip user2 DIRECT/10.0.0.5 application/zip
+1761640815.777      3 192.168.60.13 TCP_DENIED/403 3920 GET http://blocked.example.org/ user3 NONE/- text/html
+1761640816.100      2 192.168.60.13 TCP_DENIED/403 3920 GET http://blocked.example.org/ user3 NONE/- text/html
+1761640817.350      2 192.168.60.13 TCP_DENIED/403 3920 GET http://blocked.example.org/ user3 NONE/- text/html
+1761640820.901    120 192.168.60.12 TCP_MISS/200 9800 GET http://www.example.com/style.css user2 DIRECT/93.184.216.34 text/css
+1761640825.640      8 192.168.60.11 TCP_HIT/200 9800 GET http://www.example.com/style.css user1 NONE/- text/css
+1761640830.210    150 192.168.60.14 TCP_MISS/407 1700 GET http://www.example.com/ - NONE/- text/html
+1761640831.015    148 192.168.60.14 TCP_MISS/407 1700 GET http://www.example.com/ - NONE/- text/html
+1761640832.330    151 192.168.60.14 TCP_MISS/407 1700 GET http://www.example.com/ - NONE/- text/html
+1761640840.470    290 192.168.60.13 TCP_MISS/200 75000 GET http://news.testsite.local/ user3 DIRECT/10.0.0.5 text/html
